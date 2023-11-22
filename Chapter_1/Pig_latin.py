@@ -15,5 +15,5 @@ while True:
     press = input("If you want to play again press Enter else press q : ")
     print("\n")
     if press.lower() == 'q':
-        print("Thank you for playing please press enter")
+        print("Thank you for playing please press enter \n")
         break
